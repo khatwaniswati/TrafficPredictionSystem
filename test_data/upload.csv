@@ -1,0 +1,11 @@
+Latitude,Longitude,Age_Band_of_Driver,Sex_of_Driver,Vehicle_Type,Road_Type,Speed_limit,Junction_Control,Light_Conditions,Weather_Conditions,Road_Surface_Conditions,Urban_or_Rural_Area,Accident_Severity
+51.496345,-0.206443,46 - 55,Male,Taxi/Private hire car,Single carriageway,30,Data missing or out of range,Daylight,Raining no high winds,Wet or damp,Urban,Slight
+51.501668,-0.184189,36 - 45,Male,Motorcycle 125cc and under,Single carriageway,30,Auto traffic signal,Daylight,Unknown,Dry,Urban,Slight
+51.514787,-0.195197,36 - 45,Male,Car,Single carriageway,30,Auto traffic signal,Daylight,Raining no high winds,Wet or damp,Urban,Serious
+51.489305,-0.175605,46 - 55,Male,Car,Single carriageway,30,Auto traffic signal,Darkness - lights lit,Fine no high winds,Dry,Urban,Serious
+51.489305,-0.175605,26 - 35,Male,Motorcycle over 125cc and up to 500cc,Single carriageway,30,Auto traffic signal,Darkness - lights lit,Fine no high winds,Dry,Urban,Serious
+51.49859,-0.165581,66 - 75,Male,Taxi/Private hire car,Single carriageway,30,Give way or uncontrolled,Daylight,Fine no high winds,Dry,Urban,Serious
+55.237969,-4.299696,46 - 55,Male,Car,Single carriageway,60,Data missing or out of range,Daylight,Fine no high winds,Dry,Rural,Fatal
+55.237969,-4.299696,36 - 45,Male,Goods over 3.5t. and under 7.5t,Single carriageway,60,Data missing or out of range,Daylight,Fine no high winds,Dry,Rural,Fatal
+54.867919,-4.027374,26 - 35,Male,Car,Single carriageway,60,Give way or uncontrolled,Daylight,Snowing no high winds,Snow,Rural,Slight
+54.986543,-3.882814,46 - 55,Male,Van / Goods 3.5 tonnes mgw or under,Single carriageway,60,Data missing or out of range,Daylight,Fine no high winds,Wet or damp,Rural,Fatal
